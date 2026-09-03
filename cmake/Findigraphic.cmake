@@ -1,5 +1,5 @@
 set(name igraphic)
-set(tag main)
+set(tag v0.2.0)
 
 # CHERCHER, puis seulement rapatrier. Ce module ne faisait que le dernier
 # tiers : il ne savait repondre qu'a "est-ce que J'AI deja telecharge ca ?",

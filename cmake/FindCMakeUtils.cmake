@@ -1,5 +1,5 @@
 set(name cmakeutils)
-set(tag main)#1.0.0)
+set(tag v0.1.0)#1.0.0)
 
 include(FetchContent)
 FetchContent_GetProperties(${name})
